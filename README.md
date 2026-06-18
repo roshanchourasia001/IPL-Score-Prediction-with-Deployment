@@ -16,7 +16,8 @@ A machine learning web app built with **Streamlit** that predicts the final IPL 
 
 ## 📸 Screenshot
 
-> Add a screenshot of your app here
+![ss](static/ss1.png)
+![ss](static/ss2.png)
 
 ---
 
