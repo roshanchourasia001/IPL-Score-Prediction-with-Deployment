@@ -97,7 +97,7 @@ pip install -r requirements.txt
 
 ### 3. Run the app
 ```bash
-streamlit run app.py
+streamlit run streamit_app.py
 ```
 
 ---
@@ -125,13 +125,13 @@ pip install -r requirements.txt
 1. Push your code to GitHub
 2. Go to [https://streamlit.io/cloud](https://streamlit.io/cloud)
 3. Connect your GitHub repo
-4. Set `app.py` as the entry point
+4. Set `streamlit_app.py` as the entry point
 5. Click **Deploy**
 
 > **Note:** If your model file is large (>100MB), host it on [Hugging Face Hub](https://huggingface.co/) and load it dynamically:
 > ```python
 > from huggingface_hub import hf_hub_download
-> model_path = hf_hub_download(repo_id="your-username/your-model", filename="flight_rf.pkl")
+> model_path = hf_hub_download(repo_id="your-username/your-model", filename="model.pkl")
 > ```
 
 ---
