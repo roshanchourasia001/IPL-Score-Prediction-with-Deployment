@@ -10,10 +10,13 @@ A machine learning web app built with **Streamlit** that predicts the final IPL 
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
 
-[![Click Here](static/click.webp)](https://ipl-score-prediction-roshan.streamlit.app/)
+<p align="center">
+  <a href="https://ipl-score-prediction-roshan.streamlit.app/">
+    <img src="static/click.webp" alt="IPL Score Predictor" width="300">
+  </a>
+</p>
 
 
-![dhoni](static/dhoni.gif)
 
 ---
 
